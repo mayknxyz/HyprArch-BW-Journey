@@ -6,7 +6,7 @@
 
 ## Welcome to HyprArch-BW-Journey!
 
-This repository is more than just a collection of dotfiles; it's a guided, hands-on journey to building a sleek, minimalist, and highly functional **Arch Linux** setup with the dynamic **Hyprland** Wayland compositor. My personal setup is meticulously crafted with a **black and white aesthetic**, and I've documented every step so you can replicate it, customize it, and truly understand what's happening under the hood.
+This repository is more than just a collection of dotfiles; it's a guided, hands-on journey to building a sleek, minimalist, and highly functional **Arch Linux** setup with the dynamic **Hyprland** Wayland compositor. My personal setup is meticulously crafted with a **black and white aesthetic**, and I've documented every step so you can replicate it, customize it, and truly understand what's happening under the hood. This will be a good balance of setting up everything from scratch which might too much for linux newcomers vs one-click installation which might be too easy that you will miss the learning opportunity. 
 
 Whether you're new to Arch Linux, curious about Wayland, or simply looking for a clean, productive desktop environment, this journey is designed for you. We'll go from a fresh Arch install to a fully configured Hyprland desktop, exploring essential commands, configuration files, and best practices along the way.
 
